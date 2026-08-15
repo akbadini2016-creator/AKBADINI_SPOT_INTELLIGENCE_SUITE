@@ -27,6 +27,8 @@ AKBADINI does **not** place orders automatically and does **not** require access
 
 **Launch price: US$9.99 one-time**
 
+[**Buy AKBADINI Spot Scanner v4.2.2 — US$9.99**](https://akbadini.lemonsqueezy.com/checkout/buy/ab8e7e98-3176-421c-aa0d-dd22dce7a333)
+
 The Scanner is the discovery layer.
 
 It is designed to:
@@ -121,9 +123,9 @@ When the full TradingView edition becomes available, the intended workflow is:
 
 **AKBADINI Spot Scanner v4.2.2 — US$9.99 one-time**
 
-Purchase/payment delivery instructions will be published here when checkout is activated.
+[**BUY NOW — Secure checkout**](https://akbadini.lemonsqueezy.com/checkout/buy/ab8e7e98-3176-421c-aa0d-dd22dce7a333)
 
-Until then, this repository serves as the official public product information page.
+After successful purchase, customers receive access to the Scanner customer package through the checkout delivery flow.
 
 > Never send passwords, private keys, exchange API secrets or seed phrases to anyone claiming to sell AKBADINI.
 
@@ -170,7 +172,8 @@ Cryptocurrency markets are volatile. Users remain responsible for entries, exits
 - [x] TradingView Authority v37.4.5 frozen
 - [x] AI Intelligence v2.7.3.1 frozen
 - [x] Public storefront package prepared
-- [ ] Activate payment link
+- [x] Checkout link connected
+- [ ] Store activation/review completed
 - [ ] Launch Scanner Edition
 - [ ] Upgrade TradingView publishing when commercially justified
 - [ ] Launch full three-layer suite
