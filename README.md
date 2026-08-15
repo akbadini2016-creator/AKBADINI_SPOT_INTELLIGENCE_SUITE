@@ -2,7 +2,8 @@
 
 ### Binance Spot decision-support tools for disciplined token discovery, confirmation and risk review
 
-> **Current launch product:** AKBADINI Spot Scanner v4.2.2 — **US$9.99 one-time**  
+> **Current Scanner production:** AKBADINI Spot Scanner v4.3.0 — **MAX Dynamic Binance Universe**  
+> **Planned launch price:** **US$9.99 one-time**  
 > **Full TradingView Suite:** Authority v37.4.5 + AI Intelligence v2.7.3.1 — **coming later**
 
 ---
@@ -15,7 +16,7 @@ AKBADINI is a Spot-only market-analysis workflow designed around three coordinat
 
 | Layer | Product | Role | Status |
 |---|---|---|---|
-| 1 | AKBADINI Spot Scanner v4.2.2 | Finds and ranks Binance Spot USDT candidates | **Available now** |
+| 1 | AKBADINI Spot Scanner v4.3.0 | Dynamically discovers and ranks eligible Binance Spot USDT candidates | **Production / storefront delivery sync pending** |
 | 2 | AKBADINI TradingView Authority v37.4.5 | Confirms technical authority, entry, stop, targets and risk context | **Frozen / full suite later** |
 | 3 | AKBADINI AI Intelligence v2.7.3.1 | Adds opportunity, volume, BTC context, preferred retest, scenarios and risk interpretation | **Frozen / full suite later** |
 
@@ -23,32 +24,36 @@ AKBADINI does **not** place orders automatically and does **not** require access
 
 ---
 
-## Available now — Spot Scanner v4.2.2
+## Spot Scanner v4.3.0 — MAX Dynamic Binance Universe
 
-**Launch price: US$9.99 one-time**
-
-[**Buy AKBADINI Spot Scanner v4.2.2 — US$9.99**](https://akbadini.lemonsqueezy.com/checkout/buy/ab8e7e98-3176-421c-aa0d-dd22dce7a333)
+**Planned launch price: US$9.99 one-time**
 
 The Scanner is the discovery layer.
 
+v4.3.0 removes the old fixed-universe inclusion constraint. Binance live exchange metadata is authoritative for the active scan universe.
+
 It is designed to:
 
-- scan a configured universe of Binance Spot USDT candidates;
-- validate live Spot availability before analysis;
+- discover the maximum currently eligible Binance Spot USDT universe at runtime;
+- automatically admit newly eligible USDT Spot listings without a scanner code update;
+- automatically exclude inactive, delisted and non-Spot symbols;
+- retain the historical 261-token map only for classification and priority continuity;
+- process unusual 24h movement / turnover candidates earlier without excluding the rest of the eligible universe;
 - rank and filter opportunities;
 - surface authority-qualified candidates;
 - separate discovery from actual entry timing;
 - operate without Binance API keys or account permissions.
 
-The configured candidate universe contains **261 USDT pairs**. Live availability is checked by the Scanner, so unavailable or inactive pairs are excluded at runtime.
+The Scanner is **not capped to the historical 261-pair universe**. The live eligible count can change as Binance listings and trading status change.
 
 ### Scanner workflow
 
 1. Run the Scanner.
-2. Review the strongest candidates.
-3. Open the selected pair in TradingView.
-4. Perform your own chart/risk confirmation.
-5. Decide whether to trade.
+2. Let it refresh the live eligible Binance Spot USDT universe.
+3. Review the strongest candidates and unusual movers.
+4. Open the selected pair in TradingView.
+5. Perform your own chart/risk confirmation.
+6. Decide whether to trade.
 
 ---
 
@@ -110,7 +115,8 @@ When the full TradingView edition becomes available, the intended workflow is:
 
 | Component | Production version |
 |---|---|
-| Scanner | **v4.2.2 FINAL NETWORK RESILIENCE HOTFIX** |
+| Scanner | **v4.3.0 MAX DYNAMIC BINANCE UNIVERSE** |
+| Scanner rollback | **v4.2.2 FINAL NETWORK RESILIENCE HOTFIX** |
 | TradingView Authority | **v37.4.5 FROZEN AUTHORITY** |
 | AI Intelligence | **v2.7.3.1 FROZEN PRODUCTION** |
 | Market | **Binance Spot / USDT** |
@@ -121,11 +127,9 @@ When the full TradingView edition becomes available, the intended workflow is:
 
 ## Purchase — Scanner Edition
 
-**AKBADINI Spot Scanner v4.2.2 — US$9.99 one-time**
+**AKBADINI Spot Scanner v4.3.0 — planned US$9.99 one-time**
 
-[**BUY NOW — Secure checkout**](https://akbadini.lemonsqueezy.com/checkout/buy/ab8e7e98-3176-421c-aa0d-dd22dce7a333)
-
-After successful purchase, customers receive access to the Scanner customer package through the checkout delivery flow.
+The Lemon Squeezy checkout is already configured. **Before public launch, the downloadable customer package and product title must be synchronized from v4.2.2 to v4.3.0.** This storefront intentionally does not claim v4.3.0 delivery until that checkout package update is completed.
 
 > Never send passwords, private keys, exchange API secrets or seed phrases to anyone claiming to sell AKBADINI.
 
@@ -133,11 +137,11 @@ After successful purchase, customers receive access to the Scanner customer pack
 
 ## What buyers receive
 
-Scanner Edition buyers receive:
+Scanner Edition buyers are intended to receive:
 
-- AKBADINI Spot Scanner customer package;
+- AKBADINI Spot Scanner v4.3.0 customer package;
 - setup / start guide;
-- supported-pair universe;
+- dynamic-universe explanation;
 - version map;
 - risk notice.
 
@@ -168,13 +172,15 @@ Cryptocurrency markets are volatile. Users remain responsible for entries, exits
 
 ## Roadmap
 
-- [x] Scanner v4.2.2 frozen
+- [x] Scanner v4.2.2 frozen as rollback
+- [x] Scanner v4.3.0 MAX Dynamic Binance Universe promoted to production
 - [x] TradingView Authority v37.4.5 frozen
 - [x] AI Intelligence v2.7.3.1 frozen
-- [x] Public storefront package prepared
-- [x] Checkout link connected
+- [x] Public storefront prepared
+- [x] Checkout infrastructure connected
+- [ ] Replace Lemon Squeezy v4.2.2 customer package/title with v4.3.0
 - [ ] Store activation/review completed
-- [ ] Launch Scanner Edition
+- [ ] Launch Scanner Edition v4.3.0
 - [ ] Upgrade TradingView publishing when commercially justified
 - [ ] Launch full three-layer suite
 
