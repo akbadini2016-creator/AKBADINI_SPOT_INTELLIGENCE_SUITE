@@ -54,7 +54,7 @@ The configured candidate universe contains **261 USDT pairs**. Live availability
 
 The frozen TradingView authority layer provides confirmed-candle technical decision support.
 
-![AKBADINI TradingView Authority](assets/authority_v37_4_5.png)
+![AKBADINI TradingView Authority](AKBADINI%20SPOT%20INTELLIGENCE%20INDICATOR.png)
 
 Key areas include:
 
@@ -74,7 +74,7 @@ Key areas include:
 
 The third layer adds a professional context and confirmation dashboard.
 
-![AKBADINI AI Intelligence](assets/ai_intelligence_v2_7_3_1.png)
+![AKBADINI AI Intelligence](BADINI%20AI%20INTELLIGENCE%20V2.7.3.1%20SPOT%20EDITION.png)
 
 It includes:
 
