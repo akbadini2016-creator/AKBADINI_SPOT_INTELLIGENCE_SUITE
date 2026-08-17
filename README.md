@@ -1,149 +1,103 @@
-# AKBADINI Spot Intelligence
+# AKBADINI Spot Intelligence Suite
 
-### Binance Spot decision-support suite for disciplined discovery, confirmation and risk review
+### Professional Binance USDT Spot market intelligence for faster scanning, clearer confirmation and disciplined risk review
 
-> **Current production:** AKBADINI Complete Binance USDT Spot Suite — **478 Pair Edition**  
-> **Planned launch price:** **US$9.99 one-time**  
-> **Production freeze:** **2026-08-16**  
-> **Lemon Squeezy delivery sync:** **pending final ZIP replacement**
+> **Current product:** AKBADINI Spot Intelligence Suite  
+> **Desktop edition:** 478-Pair Desktop Scanner Suite — **US$9.99 one-time**  
+> **TradingView edition:** AI Guidance v2.7.3.1 — **US$9.99 one-time**  
+> **Store status:** Product configured and test-validated; live selling awaits Lemon Squeezy store approval.
 
 ---
 
-## Production architecture
+## Choose your edition
 
-AKBADINI now uses six focused category scanners instead of one oversized live-universe scan:
+### 1) 478-Pair Desktop Scanner Suite
 
-| Category | Pairs | Production status |
+One Master Launcher opens six separately approved Windows scanners:
+
+| Category | Pairs | Production build |
 |---|---:|---|
-| Major Core | 56 | **RC4 — APPROVED / FROZEN** |
-| Growth | 81 | **RC2 — APPROVED / FROZEN** |
-| Opportunity | 21 | **RC2 — APPROVED / FROZEN** |
-| Recovery / Legacy | 114 | **RC2 — APPROVED / FROZEN** |
-| Momentum / New Listing | 123 | **RC2 — APPROVED / FROZEN** |
-| Monitor / Special / Weak | 83 | **RC2 — APPROVED / FROZEN** |
+| Major Core | 56 | RC4 |
+| Growth | 81 | RC2 |
+| Opportunity | 21 | RC2 |
+| Recovery / Legacy | 114 | RC2 |
+| Momentum / New Listing | 123 | RC2 |
+| Monitor / Special / Weak | 83 | RC2 |
 
-**Total:** 478 unique classified Binance USDT Spot pairs with zero cross-category duplicates in the validated 2026-08-16 snapshot.
+**Total:** 478 unique classified Binance USDT Spot pairs with **zero cross-category duplicates** in the validated 2026-08-16 snapshot.
 
-Each category scanner uses the same validated safety foundation while keeping its own focused universe. Run **one scanner at a time**.
+The Desktop Suite evaluates multi-timeframe trend, momentum, relative volume, BTC market context, entry timing, preferred retest zones, confirmation strength, risk conditions and contradictory signals.
 
----
+It also includes the complete **478-pair TradingView-ready classified text/watchlist lists**.
 
-## Three-layer workflow
+**Desktop delivery does not include Pine indicators.**
 
-**SCAN → AUTHORITY → AI REVIEW → USER DECIDES**
+### 2) AI Guidance — TradingView Indicator v2.7.3.1
 
-| Layer | Product | Role | Status |
-|---|---|---|---|
-| 1 | AKBADINI 478 Pair Scanner Suite | Category-based discovery and execution-safety screening | **All six live-validated / frozen** |
-| 2 | AKBADINI TradingView Authority v37.4.5 | Technical authority, entry, invalidation, targets and risk context | **Frozen Authority** |
-| 3 | AKBADINI AI Intelligence v2.7.3.1 | Opportunity, BTC context, volume, preferred retest and scenario interpretation | **Frozen Production** |
+A validated/frozen TradingView decision-support indicator for deeper chart-level confirmation.
 
-AKBADINI does **not** place orders automatically and does **not** require Binance API keys or access to a user's Binance account.
-
----
-
-## Scanner safety baseline
-
-The production suite preserves:
-
-- frozen v37.4.5 authority ordering;
-- v4.2.2 golden scanner foundation;
-- confirmed-candle six-timeframe analysis;
-- validated RC4 zone/invalidation Guard interpretation;
-- **Block > Permission > Action** precedence;
-- manual TradingView parity review where required;
-- Spot-only operation.
-
-All six category builds completed one-by-one live validation with **FAIL 0, Critical 0 and High 0** in their final contradiction/validation Guard runs.
-
----
-
-## TradingView Authority v37.4.5
-
-The frozen authority layer provides confirmed-candle technical decision support including permission state, entry/invalidation, multi-timeframe structure, BTC context, support/resistance and risk controls.
-
-![AKBADINI TradingView Authority](AKBADINI%20SPOT%20INTELLIGENCE%20INDICATOR.png)
-
-**Status:** Frozen Authority.
-
----
-
-## AKBADINI AI Intelligence v2.7.3.1
-
-The AI Intelligence layer adds a professional context and confirmation dashboard including opportunity/confidence, volume quality, BTC influence, token-vs-BTC relationship, preferred retest, model price map, scenarios and risk-management guidance.
+It evaluates multi-timeframe trend, momentum, relative volume, BTC conditions, entry quality, preferred retest levels, support/resistance, risk and scenario outlook.
 
 ![AKBADINI AI Intelligence](BADINI%20AI%20INTELLIGENCE%20V2.7.3.1%20SPOT%20EDITION.png)
 
-The AI layer is deterministic decision-fusion logic. It does not claim guaranteed machine-learning predictions and does not override v37.4.5 authority.
+AI Guidance uses deterministic decision-fusion logic. It is not an LLM or guaranteed predictive model and does not automatically trade.
 
 ---
 
-## What buyers receive
+## Production foundation
 
-The final customer delivery package is:
+The Desktop scanners preserve the validated v4.2.2 scanner foundation and the frozen v37.4.5 technical authority ordering.
 
-**`AKBADINI_COMPLETE_BINANCE_USDT_SPOT_SUITE_v2_ALL_APPROVED_2026-08-16.zip`**
+Current Desktop production release:
 
-It contains:
+`v4.2.2-MASTER-478-PRODUCTION`
 
-- all six approved category scanners;
-- master launcher;
-- frozen Spot v37.4.5 indicator package;
-- frozen AI Intelligence v2.7.3.1 package;
-- all 478 classified pair lists;
-- TradingView import lists;
-- validation evidence and SHA-256 manifests;
-- setup / usage documentation.
+The frozen TradingView Authority v37.4.5 remains the technical authority reference used in the production architecture. It is not included as a separate Pine product in the Desktop customer package.
 
-Customer package SHA-256:
-
-`42c338a7e346de3890df9ebc583a14bd9fa8aba2ac7a3a7035879c17c894e882`
-
-The private production repositories and development history are not included in the customer delivery.
+![AKBADINI TradingView Authority](AKBADINI%20SPOT%20INTELLIGENCE%20INDICATOR.png)
 
 ---
 
-## Lemon Squeezy launch status
+## First 100 Desktop customer bonus
 
-The existing Lemon Squeezy product must now be synchronized to the final 478-pair suite before public launch:
+**The first 100 customers who purchase the 478-Pair Desktop Scanner Suite qualify to receive AKBADINI AI Guidance v2.7.3.1 for TradingView at no additional cost after their qualifying paid Desktop order is verified.**
 
-- product name: **AKBADINI Complete Binance USDT Spot Suite — 478 Pair Edition**;
-- planned price: **US$9.99 one-time**;
-- replace/disable the old delivery ZIP;
-- upload the final all-approved ZIP above;
-- keep the old file disabled/archive-only for rollback history where possible.
-
-Until that delivery-file replacement is completed, this storefront does not claim that the checkout is already serving the final 478-pair package.
+Bonus qualification and delivery are handled manually. The normal AI Guidance price remains US$9.99 for standalone purchases.
 
 ---
 
-## Important notice
+## Safety and scope
 
-AKBADINI is market-analysis and decision-support software. It is not a guarantee of profitability, future prices or investment returns.
+AKBADINI is decision-support software only.
 
-Cryptocurrency markets are volatile. Users remain responsible for entries, exits, position sizing, stop-loss placement, exchange risk and capital risk.
+- Binance USDT Spot focused
+- No Binance API key required
+- No exchange-account access
+- No automatic order placement
+- No trade execution
+- No guaranteed profits or future-price certainty
 
-Binance listings change over time. The 478-pair universe is the validated 2026-08-16 classified snapshot and will require later universe revisions as listings change.
+Users remain responsible for every trading decision, position size, stop, entry, exit and capital-risk decision.
 
----
-
-## Roadmap
-
-- [x] v4.2.2 historical rollback preserved
-- [x] Major Core RC4 live-approved / frozen
-- [x] Growth RC2 live-approved / frozen
-- [x] Opportunity RC2 live-approved / frozen
-- [x] Recovery RC2 live-approved / frozen
-- [x] Momentum RC2 live-approved / frozen
-- [x] Monitor RC2 live-approved / frozen
-- [x] 478-pair classified Master Suite finalized
-- [x] TradingView Authority v37.4.5 frozen
-- [x] AI Intelligence v2.7.3.1 frozen
-- [x] Public storefront updated for 478-pair production
-- [ ] Replace Lemon Squeezy delivery ZIP with final all-approved package
-- [ ] Store activation/review completed
-- [ ] Public launch
+The 478-pair universe is a validated snapshot dated 2026-08-16. Binance listings can change, so future additions/delistings require a new universe revision and fresh validation.
 
 ---
 
-**AKBADINI — Scan. Confirm. Review. Decide.**
+## Launch status
+
+- [x] Six Desktop category scanners approved
+- [x] 478 unique classified pair universe validated
+- [x] Master Launcher production release finalized
+- [x] AI Guidance v2.7.3.1 validated/frozen
+- [x] Lemon Squeezy Desktop delivery configured
+- [x] Lemon Squeezy AI Guidance delivery configured
+- [x] Test purchases completed successfully
+- [x] Public storefront synchronized to current product structure
+- [ ] Lemon Squeezy store activation/review completed
+- [ ] Public live launch
+
+See [PRICING.md](PRICING.md), [PURCHASE.md](PURCHASE.md), [FAQ.md](FAQ.md), [DISCLAIMER.md](DISCLAIMER.md) and [SECURITY.md](SECURITY.md) for additional details.
+
+---
+
+**AKBADINI — Scan faster. Confirm smarter. Manage risk with greater clarity.**
