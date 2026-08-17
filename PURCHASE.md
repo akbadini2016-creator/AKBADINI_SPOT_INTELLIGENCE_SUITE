@@ -1,21 +1,25 @@
 # Purchase & Delivery
 
-## Scanner Edition
+## AKBADINI Spot Intelligence Suite
 
-Current launch price: **US$9.99 one-time**
+The Lemon Squeezy product is configured with two one-time purchase editions:
 
-A checkout/payment link will be added to this page when activated.
+### 478-Pair Desktop Scanner Suite — US$9.99
+Customers receive the Desktop Master Launcher package containing the six approved Windows category scanners plus the classified 478-pair TradingView-ready text/watchlist lists and supporting documentation.
 
-After payment, the customer receives the Scanner customer package and documentation.
+### AI Guidance — TradingView Indicator v2.7.3.1 — US$9.99
+Customers receive the validated/frozen AI Guidance TradingView indicator file and associated purchase access.
+
+## First 100 Desktop customer bonus
+
+The first 100 qualifying paid Desktop customers are eligible to receive AI Guidance v2.7.3.1 at no additional cost after the Desktop order is verified. This bonus is managed manually rather than through a public discount code.
+
+## Store status
+
+The product and both editions are configured and test-purchase validated. Public live checkout will be promoted here only after Lemon Squeezy completes store activation/review.
 
 ## Security
 
-AKBADINI never needs your:
+AKBADINI never needs your Binance password, TradingView password, wallet seed phrase, wallet private key, or exchange API secret for these products.
 
-- Binance password
-- TradingView password
-- seed phrase
-- wallet private key
-- exchange API secret for the current Scanner product
-
-Never post payment credentials or account secrets in a public GitHub Issue.
+Never post payment credentials, account secrets, private keys or seed phrases in a public GitHub Issue.
