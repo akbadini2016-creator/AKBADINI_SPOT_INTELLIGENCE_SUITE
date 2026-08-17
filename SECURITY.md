@@ -1,14 +1,16 @@
 # Security
 
-The public storefront does not contain proprietary production source code.
+The public storefront does not contain proprietary production source repositories.
 
-Customers should never send:
+Customers should never send or publish:
 
 - wallet seed phrases;
 - wallet private keys;
 - Binance passwords;
 - TradingView passwords;
-- payment card details in GitHub Issues;
-- exchange API secrets for the current Scanner product.
+- payment card details;
+- exchange API keys or secrets.
 
-Report suspicious impersonation or unauthorized redistribution to the official seller through the verified GitHub account hosting this repository.
+The current AKBADINI Desktop Scanner Suite uses public market data and does not require Binance API credentials or exchange-account access. AI Guidance runs as a TradingView decision-support indicator and does not require Binance account access.
+
+Never post payment credentials or account secrets in a public GitHub Issue. Report suspicious impersonation or unauthorized redistribution through the verified GitHub account hosting this repository.
